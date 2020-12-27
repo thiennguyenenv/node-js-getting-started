@@ -1,0 +1,4 @@
+name: Node.js Starter
+description: A barebones Node.js app using Express 4
+language: Javascript
+runtime: Node.js
